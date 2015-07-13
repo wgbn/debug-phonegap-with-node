@@ -21,6 +21,8 @@ que o console do Node imprime tudo, inclusive identado. Nativamente!
 
 Esse arquivo *debugapp.js* usa o **jQuery** para fazer requisições **AJAX**, mas basta edita-lo para fazer a requisição *do jeito que você quiser, usando a biblioteca que quiser*. Ele serve apenas para interceptar as funções **log**, **error**, **info** e **warning** do **console** e enviar para o servidor Node.
 
+Se for usar o jQuery mesmo, lembre-se de tê-lo em seu projeto.
+
 Feito isso você só precisa rodar o aquivo *debugsrv.js* com o node para ter seu servidor pronto.
 
     $ nodejs debugsrv.js
