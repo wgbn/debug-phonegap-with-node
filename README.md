@@ -14,6 +14,8 @@ Com esse degub, você consegue printar facilmente no console do seu computador, 
     );
 que o console do Node imprime tudo, inclusive identado. Nativamente!
 
+## Instalação
+
 * Basta clonar o repositório numa pasta 'nodejs' em seu projeto *(ou qualquer pasta que quiser, inclusive fora do projeto, não importa)*.
 * Em seguida copie o arquivo *debugapp.js* para seu aplicativo e chame-o na inicialização.
 
