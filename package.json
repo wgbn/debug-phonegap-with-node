@@ -1,0 +1,29 @@
+{
+  "name": "PhonegapDebug",
+  "version": "0.1.0",
+  "description": "Debugger para cordova/phonegap",
+  "keywords": [
+    "debugger",
+    "cordova",
+    "phonegap",
+    "Node.js",
+    "application"
+  ],
+  "author": {
+    "name": "Walter Gandarella",
+    "email": "walter.wgbn@gmail.com",
+    "url": "http://www.wgbn.com.br"
+  },
+  "homepage": "http://www.wgbn.com.br",
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.13.2",
+    "express": "~4.13.0",
+    "request": "~2.57.0",
+    "send-data": "^7.0.0"
+  }
+}
